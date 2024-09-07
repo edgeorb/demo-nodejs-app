@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-http-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTTP server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
